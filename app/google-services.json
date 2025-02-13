@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "416553884600",
-    "project_id": "kontrol-pintu-7427b",
-    "storage_bucket": "kontrol-pintu-7427b.appspot.com"
+    "project_number": "588100443796",
+    "project_id": "pintucerdas-4b1ae",
+    "storage_bucket": "pintucerdas-4b1ae.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:416553884600:android:460e8d4d29ab14a5588d4d",
+        "mobilesdk_app_id": "1:588100443796:android:dc1f566ae5dafa30c29e81",
         "android_client_info": {
-          "package_name": "com.example.kontrolpintu"
+          "package_name": "com.kontrolpintu"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "416553884600-tptk6jhjsc17odh0f0q4gmlr8s274j7c.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB5TpQAysNerWrpL8k0Vis2YA-r7BVeCSE"
+          "current_key": "AIzaSyAHymtaNS60nLCxCxOCKuVIgHE031ADKf0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "416553884600-tptk6jhjsc17odh0f0q4gmlr8s274j7c.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

@@ -1,4 +1,4 @@
-package com.example.kontrolpintu;
+package com.kontrolpintu;
 
 import org.junit.Test;
 
