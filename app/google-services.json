@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416553884600",
+    "project_id": "kontrol-pintu-7427b",
+    "storage_bucket": "kontrol-pintu-7427b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416553884600:android:460e8d4d29ab14a5588d4d",
+        "android_client_info": {
+          "package_name": "com.example.kontrolpintu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416553884600-tptk6jhjsc17odh0f0q4gmlr8s274j7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TpQAysNerWrpL8k0Vis2YA-r7BVeCSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416553884600-tptk6jhjsc17odh0f0q4gmlr8s274j7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
